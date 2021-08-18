@@ -32,6 +32,13 @@ pip3 install numpy scipy
 
 The GDAL Georeferencing is still broken so it does not open nicely in QGIS.
 
+## Other things to try
+
+It seems (thanks Raymond for the hint!) that you can make nice procedurally generated
+landscapes in Blender:
+
+https://docs.blender.org/manual/en/2.93/addons/add_mesh/ant_landscape.html
+
 ## Credits
 
 Assembled by Tim Sutton and Vctoria Neema
