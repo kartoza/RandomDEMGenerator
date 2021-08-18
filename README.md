@@ -24,6 +24,10 @@ pip3 install numpy scipy
 ![Example Output](example.png)
 
 
+## Issues
+
+The GDAL Georeferencing is still broken so it does not open nicely in QGIS.
+
 ## Credits
 
 Assembled by Tim Sutton and Vctoria Neema
