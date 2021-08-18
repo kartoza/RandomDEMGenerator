@@ -1,7 +1,11 @@
 # Random DEM Generator
 
 Honestly the outputs still look a bit ropey - would love some interesting patches to make
-the DEM's produced look more natural.
+the DEM's produced look more natural, with pronounced mountain ranges etc.
+
+What is the point of this? Random DEMS could be useful for making fantasy maps, testing DEM
+processing routines, trying out cartographic approaches etc.
+
 
 ## Setup
 
